@@ -52,7 +52,7 @@ Data warehouse to be built with the following data to aid Data Analysts to repor
   * Mortality
   * Hospitalization/ICU Cases
   * Testing numbers
-* Eurostat Website
+* Eurostat Website - [Link](https://github.com/ArvinCheung0313/Azure-Notes/blob/main/tps00010.tsv)
   * Population by age
 
 ## 1.3 Solution Architecture
