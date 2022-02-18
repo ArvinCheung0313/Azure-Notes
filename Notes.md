@@ -4,6 +4,8 @@ Start Date: 2022-02-17
 
 Learning is an active process. We learn by doing. Only knowledge that is used sticks in your mind.
 
+:surfer:Currently updating...:surfing_man: 2020-02-17
+
 # 1 Overviews
 
 ## 1.1 Azure Data Factory (ADF)
