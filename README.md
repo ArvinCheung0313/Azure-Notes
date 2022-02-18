@@ -35,7 +35,7 @@ A fully managed, serverless data integration solution for ingesting, preparing a
 ## 1.2 COVID-19 Prediction/Reporting
 
 ### 1.2.1 Objective
-* **Prediction**
+* **Prediction**  
   Create a data platform from which our data science team can run machine learing models to predict the spread of the virus and find other insights from the data.
 * **Reporting**  
   Create a data platform from which our data analysts can easily report on the COVID-19 trends using a reporting tool.
