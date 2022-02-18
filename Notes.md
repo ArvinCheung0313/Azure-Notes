@@ -6,6 +6,13 @@ Learning is an active process. We learn by doing. Only knowledge that is used st
 
 :surfer:Currently updating...:surfing_man: 2020-02-17
 
+# Contents
+[1 Overviews](#1-overviews)
+* [1.1 Azure Data Factory (ADF)](#11-azure-data-factory-adf)
+* [1.2 COVID-19 Prediction/Reporting](#12-covid-19-predictionreporting)
+* [1.3 Solution Architecture](#13-solution-architecture)
+* [1.4 Storage Solutions](#14-storage-solutions)
+
 # 1 Overviews
 
 ## 1.1 Azure Data Factory (ADF)
