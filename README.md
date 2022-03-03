@@ -4,7 +4,7 @@ Start Date: 2022-02-17
 
 Learning is an active process. We learn by doing. Only knowledge that is used sticks in your mind.
 
-:surfer:Currently updating...:surfing_man: 2020-02-24
+:surfer:Currently updating...:surfing_man: 2020-03-03
 
 # Contents
 * [1 Overviews](#1-overviews)
@@ -103,6 +103,24 @@ Designed to serve multiple petabytes of informaion while sustaining hundreds of 
 * Enhance Management
 * Better Security
 * Inexpensive to Run
+
+# 2 Data Ingestion
+
+## 2.1 From Azure Blob
+Create ADF pipeline
+* **Copy File**
+* **Validation**
+* **Get Metadata, If condition, Web activities**
+* **Delete**
+* **ADF Trigger**
+  * **Schedule Trigger**  
+    Runs on a calendar/clock. It supports periodic and specific times, but can only be scheduled for a future time. Trigger to Pipeline is many to many.
+  * **Tumbling Window Trigger**  
+    Runs at periodic intervals. It's fixed sized, non-overlapping, and can be scheduled for the past windows/slices. Trigger to Pipeline is one to one.
+  * **Storage Event Trigger**  
+    Runs in response to events. Events can be creation or deletion of Blobs/Files. Trigger to Pipeline is many to many.
+    
+## 2.2 From HTTP
 
 
 
